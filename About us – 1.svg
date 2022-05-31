@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="2329" viewBox="0 0 1920 2329">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-About_us_1);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-10, .cls-21, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: url(#pattern);
+      }
+
+      .cls-5, .cls-6 {
+        fill: #353535;
+        letter-spacing: 0.04em;
+      }
+
+      .cls-12, .cls-5, .cls-6 {
+        font-size: 24px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-14, .cls-6 {
+        text-decoration: underline;
+      }
+
+      .cls-7 {
+        fill: #e1e1e1;
+        opacity: 0.79;
+      }
+
+      .cls-12, .cls-13, .cls-14, .cls-15, .cls-8 {
+        fill: #e7e7e7;
+      }
+
+      .cls-14, .cls-8 {
+        font-size: 18px;
+      }
+
+      .cls-13, .cls-14, .cls-8 {
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-10, .cls-9 {
+        stroke: #707070;
+      }
+
+      .cls-9 {
+        opacity: 0.59;
+        fill: url(#radial-gradient);
+      }
+
+      .cls-11 {
+        fill: #403f3f;
+      }
+
+      .cls-13 {
+        font-size: 20px;
+      }
+
+      .cls-15 {
+        font-size: 32px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-16 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-17 {
+        fill: url(#pattern-3);
+      }
+
+      .cls-18 {
+        fill: url(#pattern-4);
+      }
+
+      .cls-19 {
+        fill: url(#pattern-5);
+      }
+
+      .cls-20 {
+        fill: url(#pattern-6);
+      }
+
+      .cls-22 {
+        fill: #f2fb91;
+      }
+
+      .cls-23, .cls-25 {
+        stroke: none;
+      }
+
+      .cls-24 {
+        fill: none;
+      }
+
+      .cls-25 {
+        fill: #707070;
+      }
+
+      .cls-26 {
+        filter: url(#Rectangle_22);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.48" x2="0.53" y2="0.896" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3957ed" stop-opacity="0.78"/>
+      <stop offset="0.604" stop-color="#7ec9f5"/>
+    </linearGradient>
+    <filter id="Rectangle_22" x="-75" y="-52" width="2070" height="256" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 500 500">
+      <image width="500" height="500" xlink:href="About%20us%20-%201-image.png"/>
+    </pattern>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3957ed"/>
+      <stop offset="1" stop-color="#7ec9f5"/>
+    </radialGradient>
+    <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 48 48">
+      <image width="48" height="48" xlink:href="About%20us%20-%201-image2.png"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 48 48">
+      <image width="48" height="48" xlink:href="About%20us%20-%201-image3.png"/>
+    </pattern>
+    <pattern id="pattern-4" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 48 48">
+      <image width="48" height="48" xlink:href="About%20us%20-%201-image4.png"/>
+    </pattern>
+    <pattern id="pattern-5" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 48 48">
+      <image width="48" height="48" xlink:href="About%20us%20-%201-image5.png"/>
+    </pattern>
+    <pattern id="pattern-6" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 3455 496">
+      <image width="3455" height="496" xlink:href="About%20us%20-%201-image6.png"/>
+    </pattern>
+    <clipPath id="clip-About_us_1">
+      <rect width="1920" height="2329"/>
+    </clipPath>
+  </defs>
+  <g id="About_us_1" data-name="About us – 1" class="cls-1">
+    <rect class="cls-3" width="1920" height="2329"/>
+    <path id="Rectangle_4" data-name="Rectangle 4" class="cls-2" d="M0,0H1920.026V301.735L0,769Z" transform="translate(0 106)"/>
+    <g class="cls-26" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_22-2" data-name="Rectangle 22" class="cls-3" width="1920" height="106" transform="translate(0 3)"/>
+    </g>
+    <rect id="DWSpay_1" data-name="DWSpay 1" class="cls-4" width="227" height="83" transform="translate(29 26)"/>
+    <text id="Home" class="cls-5" transform="translate(1059 31)"><tspan x="0" y="26">Home</tspan></text>
+    <text id="About_us" data-name="About us" class="cls-6" transform="translate(1195 31)"><tspan x="0" y="26">About us</tspan></text>
+    <text id="Services" class="cls-5" transform="translate(1368 31)"><tspan x="0" y="26">Services</tspan></text>
+    <text id="Contact_us" data-name="Contact us" class="cls-5" transform="translate(1545 31)"><tspan x="0" y="26">Contact us</tspan></text>
+    <text id="Language" class="cls-5" transform="translate(1735 31)"><tspan x="0" y="26">Language</tspan></text>
+    <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-7" width="1920" height="936" transform="translate(0 875)"/>
+    <text id="Copywrite_DWSPAY" data-name="Copywrite@DWSPAY" class="cls-8" transform="translate(20 2291)"><tspan x="0" y="19">Copywrite@DWSPAY</tspan></text>
+    <g id="Ellipse_1" data-name="Ellipse 1" class="cls-9" transform="translate(-154 1556)">
+      <ellipse class="cls-23" cx="205" cy="214.5" rx="205" ry="214.5"/>
+      <ellipse class="cls-24" cx="205" cy="214.5" rx="204.5" ry="214"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-10" transform="translate(-52 1664)">
+      <ellipse class="cls-23" cx="103" cy="104.5" rx="103" ry="104.5"/>
+      <ellipse class="cls-24" cx="103" cy="104.5" rx="102.5" ry="104"/>
+    </g>
+    <rect id="Rectangle_21" data-name="Rectangle 21" class="cls-11" width="1920" height="516" transform="translate(0 1811)"/>
+    <text id="SERVICES-2" data-name="SERVICES" class="cls-12" transform="translate(156 1884)"><tspan x="0" y="26">SERVICES</tspan></text>
+    <text id="Payment_Banking_Investment_AEPS" data-name="Payment Banking Investment AEPS" class="cls-13" transform="translate(156 1961)"><tspan x="0" y="22">Payment</tspan><tspan x="0" y="49"></tspan><tspan x="0" y="76">Banking</tspan><tspan x="0" y="103"></tspan><tspan x="0" y="130">Investment</tspan><tspan x="0" y="157"></tspan><tspan x="0" y="184">AEPS</tspan></text>
+    <text id="As_a_Retailer_As_a_Distributor_API_Solution_CMS_Solution" data-name="As a Retailer As a Distributor API Solution CMS Solution" class="cls-13" transform="translate(559 1961)"><tspan x="0" y="22">As a Retailer</tspan><tspan x="0" y="49"></tspan><tspan x="0" y="76">As a Distributor</tspan><tspan x="0" y="103"></tspan><tspan x="0" y="130">API Solution</tspan><tspan x="0" y="157"></tspan><tspan x="0" y="184">CMS Solution</tspan></text>
+    <text id="Priyacy_Policy_Terms_Conditions" data-name="Priyacy Policy | Terms &amp; Conditions" class="cls-14" transform="translate(809 2291)"><tspan x="0" y="19">Priyacy Policy | Terms &amp; Conditions</tspan></text>
+    <text id="Retailer_Signup_Distributor_Signup_Retailer_Login_Distributor_Login" data-name="Retailer Signup Distributor Signup Retailer Login Distributor Login" class="cls-13" transform="translate(1033 1961)"><tspan x="0" y="22">Retailer Signup</tspan><tspan x="0" y="49"></tspan><tspan x="0" y="76">Distributor Signup</tspan><tspan x="0" y="103"></tspan><tspan x="0" y="130">Retailer Login</tspan><tspan x="0" y="157"></tspan><tspan x="0" y="184">Distributor Login</tspan></text>
+    <text id="OUR_PARTNERS" data-name="OUR PARTNERS" class="cls-12" transform="translate(559 1884)"><tspan x="0" y="26">OUR PARTNERS</tspan></text>
+    <text id="SIGN_UP_SIGN_IN" data-name="SIGN UP/SIGN IN" class="cls-12" transform="translate(1033 1884)"><tspan x="0" y="26">SIGN UP/SIGN IN</tspan></text>
+    <text id="CONTACT_US_:" data-name="CONTACT US :" class="cls-12" transform="translate(1574 1884)"><tspan x="0" y="26">CONTACT US :</tspan></text>
+    <text id="Get_our_App" data-name="Get our App" class="cls-15" transform="translate(1556 2083)"><tspan x="0" y="35">Get our App</tspan></text>
+    <rect id="icons8-instagram-48_1" data-name="icons8-instagram-48 1" class="cls-16" width="48" height="48" transform="translate(1588 1961)"/>
+    <rect id="icons8-twitter-48_1" data-name="icons8-twitter-48 1" class="cls-17" width="48" height="48" transform="translate(1666 1961)"/>
+    <rect id="icons8-linkedin-circled-48_1" data-name="icons8-linkedin-circled-48 1" class="cls-18" width="48" height="48" transform="translate(1744 1961)"/>
+    <rect id="icons8-facebook-48_1" data-name="icons8-facebook-48 1" class="cls-19" width="48" height="48" transform="translate(1517 1961)"/>
+    <rect id="kindpng_7908713_2" data-name="kindpng_7908713 2" class="cls-20" width="324" height="45" transform="translate(1482 2160)"/>
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-9" transform="translate(1666 704)">
+      <ellipse class="cls-23" cx="205" cy="214.5" rx="205" ry="214.5"/>
+      <ellipse class="cls-24" cx="205" cy="214.5" rx="204.5" ry="214"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" class="cls-10" transform="translate(1768 812)">
+      <ellipse class="cls-23" cx="103" cy="104.5" rx="103" ry="104.5"/>
+      <ellipse class="cls-24" cx="103" cy="104.5" rx="102.5" ry="104"/>
+    </g>
+    <g id="Path_1" data-name="Path 1" class="cls-21" transform="translate(0 401)">
+      <path class="cls-23" d="M 1919.5 473.5 L 4.103213787078857 473.5 L 517.9685668945312 346.365966796875 L 1919.5 0.6383581161499023 L 1919.5 473.5 Z"/>
+      <path class="cls-25" d="M 1919 473 L 1919 1.276716113090515 L 518.0888061523438 346.8511962890625 L 8.205702781677246 473 L 1919 473 M 1920 474 L 0 474 L 517.8485717773438 345.8804626464844 L 1920 0 L 1920 474 Z"/>
+    </g>
+    <text id="Copywrite_DWSPAY-2" data-name="Copywrite@DWSPAY" class="cls-8" transform="translate(30 2291)"><tspan x="0" y="19">Copywrite@DWSPAY</tspan></text>
+    <ellipse id="Ellipse_2-2" data-name="Ellipse 2" class="cls-22" cx="51.5" cy="52.5" rx="51.5" ry="52.5" transform="translate(166 304)"/>
+  </g>
+</svg>
